@@ -30,8 +30,10 @@ export default {
 </script>
 <style lang="scss" scoped>
 .home-title{
+  font-size: 16rem;
     color: red;
     .scss-test{
+      font-size: 16rem;
         color: blue;
     }
 }
